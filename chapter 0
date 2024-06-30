@@ -12,11 +12,11 @@ OR 문제를 명확히 정의하는 것이 현실에서 적용할 때 가장 중
 6. 결과를 조직에 제시합니다
 7. 구현 및 평가
 
-Linear Programming (LP)
 ex)
+Linear Programming (LP)
 maximize or minimize  9x + 8y      목적함수 
           subject to  1x + 2y ≤ 11 제약조건
                       x,y ≥ 0
-x,y - decision variable
+x,y - 결정변수 (decision variable)
 
 선형, 비선형, 정수형
